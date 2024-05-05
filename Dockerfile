@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 python:3.12.3-bullseye as build
+FROM python:3.12
 
 ADD AlpacaBot.py .
 
