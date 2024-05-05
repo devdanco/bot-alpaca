@@ -1,0 +1,6 @@
+lumibot~=3.3.7
+timedelta~=2020.12.3
+alpaca-py
+transformers~=4.40.1
+torch~=2.3.0
+python-dotenv~=1.0.1
